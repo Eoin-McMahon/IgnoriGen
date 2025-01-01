@@ -20,5 +20,5 @@ clap = "2.33.1"                                         # argument parsing
 colored = "1.9"                                         # color in terminal
 strsim = "0.10.0"                                       # string similarity metrics
 prettytable-rs = "^0.8"                                 # Print pretty tables for list subcommand
-itertools = "^0.8"                                      # Coalesce globstars
+itertools = "^0.14.0"                                      # Coalesce globstars
 
