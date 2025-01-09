@@ -17,7 +17,7 @@ reqwest = "0.9.0"                                       # http requests
 serde = {version = "1.0.111", features = ["derive"]}    # serialization
 serde_json = "1.0.53"                                   # serialize JSON 
 clap = "2.33.1"                                         # argument parsing
-colored = "1.9"                                         # color in terminal
+colored = "3.0"                                         # color in terminal
 strsim = "0.10.0"                                       # string similarity metrics
 prettytable-rs = "^0.8"                                 # Print pretty tables for list subcommand
 itertools = "^0.8"                                      # Coalesce globstars
